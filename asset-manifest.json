@@ -1,14 +1,15 @@
 {
-  "main.css": "/joeyroom/static/css/main.e41c7808.chunk.css",
-  "main.js": "/joeyroom/static/js/main.3837bf4e.chunk.js",
-  "main.js.map": "/joeyroom/static/js/main.3837bf4e.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/joeyroom/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/joeyroom/static/js/1.6105a37c.chunk.js.map",
-  "runtime~main.js": "/joeyroom/static/js/runtime~main.3e6ab641.js",
-  "runtime~main.js.map": "/joeyroom/static/js/runtime~main.3e6ab641.js.map",
-  "static/media/logo.svg": "/joeyroom/static/media/logo.5d5d9eef.svg",
-  "static/css/main.e41c7808.chunk.css.map": "/joeyroom/static/css/main.e41c7808.chunk.css.map",
-  "index.html": "/joeyroom/index.html",
-  "precache-manifest.508d887ec546ec41ee02f88040a57414.js": "/joeyroom/precache-manifest.508d887ec546ec41ee02f88040a57414.js",
-  "service-worker.js": "/joeyroom/service-worker.js"
+  "main.css": "/new/static/css/main.81e5ffbb.chunk.css",
+  "main.js": "/new/static/js/main.be90591e.chunk.js",
+  "main.js.map": "/new/static/js/main.be90591e.chunk.js.map",
+  "static/js/1.448efbf9.chunk.js": "/new/static/js/1.448efbf9.chunk.js",
+  "static/js/1.448efbf9.chunk.js.map": "/new/static/js/1.448efbf9.chunk.js.map",
+  "runtime~main.js": "/new/static/js/runtime~main.a198f4cc.js",
+  "runtime~main.js.map": "/new/static/js/runtime~main.a198f4cc.js.map",
+  "static/css/main.81e5ffbb.chunk.css.map": "/new/static/css/main.81e5ffbb.chunk.css.map",
+  "static/media/logo.png": "/new/static/media/logo.f96223f8.png",
+  "static/media/bg.jpg": "/new/static/media/bg.16ec5dc0.jpg",
+  "index.html": "/new/index.html",
+  "precache-manifest.f25560386af83ad769e0a745e82942a8.js": "/new/precache-manifest.f25560386af83ad769e0a745e82942a8.js",
+  "service-worker.js": "/new/service-worker.js"
 }
